@@ -1,0 +1,11 @@
+[32m[I 14:05:09.145 NotebookApp][m Using existing profile dir: u'/home/nick/.ipython/profile_default'
+[32m[I 14:05:09.180 NotebookApp][m Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[32m[I 14:05:09.307 NotebookApp][m Serving notebooks from local directory: /home/nick/notebook/RhizCG
+[32m[I 14:05:09.307 NotebookApp][m 0 active kernels 
+[32m[I 14:05:09.307 NotebookApp][m The IPython Notebook is running at: http://localhost:7706/
+[32m[I 14:05:09.307 NotebookApp][m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[32m[I 14:05:59.706 NotebookApp][m 302 GET / (127.0.0.1) 0.64ms
+[32m[I 14:06:06.969 NotebookApp][m Creating new notebook in /ipynb
+[32m[I 14:06:07.863 NotebookApp][m Kernel started: 470e03f1-66e7-43c7-b8c6-331dbbef646f
+[32m[I 14:08:07.833 NotebookApp][m Saving file at /ipynb/Tutorial.ipynb
+[32m[I 14:09:23.473 NotebookApp][m Saving file at /ipynb/Tutorial.ipynb
