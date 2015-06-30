@@ -98,3 +98,99 @@ Shutdown this notebook server (y/[n])? y
 [32m[I 09:16:18.148 NotebookApp][m Saving file at /ipynb/De-Multiplex-ReRun.ipynb
 [32m[I 09:16:58.980 NotebookApp][m Saving file at /ipynb/De-Multiplex-ReRun.ipynb
 [32m[I 09:22:18.245 NotebookApp][m Saving file at /ipynb/De-Multiplex-ReRun.ipynb
+[33m[W 11:56:25.274 NotebookApp][m WebSocket ping timeout after 119997 ms.
+[33m[W 11:56:46.191 NotebookApp][m WebSocket ping timeout after 119970 ms.
+[33m[W 11:56:46.938 NotebookApp][m WebSocket ping timeout after 119896 ms.
+[33m[W 11:56:47.352 NotebookApp][m WebSocket ping timeout after 119904 ms.
+[33m[W 14:50:31.624 NotebookApp][m WebSocket ping timeout after 119989 ms.
+[33m[W 14:50:31.657 NotebookApp][m WebSocket ping timeout after 119923 ms.
+[33m[W 14:50:31.681 NotebookApp][m WebSocket ping timeout after 119944 ms.
+[33m[W 07:29:01.535 NotebookApp][m Notebook ipynb/read-merge_PEAR-rerun.ipynb is not trusted
+[33m[W 07:29:02.281 NotebookApp][m Notebook ipynb/read-merge_PEAR.ipynb is not trusted
+[32m[I 15:03:38.052 NotebookApp][m Using existing profile dir: u'/home/nick/.ipython/profile_default'
+[32m[I 15:03:38.058 NotebookApp][m Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[32m[I 15:03:38.073 NotebookApp][m Serving notebooks from local directory: /home/nick/notebook/RhizCG
+[32m[I 15:03:38.073 NotebookApp][m 0 active kernels 
+[32m[I 15:03:38.073 NotebookApp][m The IPython Notebook is running at: http://localhost:7702/
+[32m[I 15:03:38.073 NotebookApp][m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[33m[W 15:03:57.941 NotebookApp][m Notebook ipynb/3-QC-run1-rerun.ipynb is not trusted
+[32m[I 15:03:59.652 NotebookApp][m Kernel started: 657ec0e7-773e-4471-acc9-dad62ea18b1c
+[33m[W 15:04:04.227 NotebookApp][m Notebook ipynb/4-OTU-binning-run1-rerun.ipynb is not trusted
+[32m[I 15:04:05.239 NotebookApp][m Kernel started: 5438a55a-ab8e-449c-b8d2-2c4719ab09c2
+[33m[W 15:18:19.821 NotebookApp][m Notebook ipynb/Ordination-rerun.ipynb is not trusted
+[32m[I 15:18:20.357 NotebookApp][m Kernel started: 4479f58a-7862-4f34-b97f-218169841a49
+[33m[W 11:43:00.855 NotebookApp][m 404 GET /tree/ipynb/t/genome100 (127.0.0.1) 22.58ms referer=None
+^C[32m[I 12:06:22.488 NotebookApp][m interrupted
+Serving notebooks from local directory: /home/nick/notebook/RhizCG
+3 active kernels 
+The IPython Notebook is running at: http://localhost:7702/
+Shutdown this notebook server (y/[n])? y
+[C 12:06:23.352 NotebookApp] Shutdown confirmed
+[32m[I 12:06:23.352 NotebookApp][m Shutting down kernels
+[32m[I 12:06:23.856 NotebookApp][m Kernel shutdown: 657ec0e7-773e-4471-acc9-dad62ea18b1c
+[32m[I 12:06:23.856 NotebookApp][m Kernel shutdown: 4479f58a-7862-4f34-b97f-218169841a49
+[32m[I 12:06:23.857 NotebookApp][m Kernel shutdown: 5438a55a-ab8e-449c-b8d2-2c4719ab09c2
+[32m[I 19:50:14.024 NotebookApp][m Using existing profile dir: u'/home/nick/.ipython/profile_default'
+[32m[I 19:50:14.070 NotebookApp][m Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+[32m[I 19:50:14.089 NotebookApp][m Serving notebooks from local directory: /home/nick/notebook/RhizCG
+[32m[I 19:50:14.089 NotebookApp][m 0 active kernels 
+[32m[I 19:50:14.089 NotebookApp][m The IPython Notebook is running at: http://localhost:7704/
+[32m[I 19:50:14.089 NotebookApp][m Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[33m[W 19:51:19.776 NotebookApp][m Notebook ipynb/4-OTU-MergedRuns.ipynb is not trusted
+[32m[I 19:51:22.653 NotebookApp][m Kernel started: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 19:53:25.567 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 19:53:25.568 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 19:55:25.565 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 19:55:25.566 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 19:57:25.588 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 19:57:25.596 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 19:58:52.757 NotebookApp][m Kernel interrupted: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 19:59:25.564 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 19:59:25.565 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:01:24.051 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:01:24.052 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:03:24.049 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:03:24.051 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:05:23.682 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:05:23.684 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:06:11.267 NotebookApp][m Kernel interrupted: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 20:07:25.572 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:07:25.574 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:09:25.182 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:09:25.183 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:10:20.967 NotebookApp][m Kernel interrupted: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 20:11:25.130 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:11:25.131 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:11:55.227 NotebookApp][m Kernel interrupted: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 20:12:44.054 NotebookApp][m Kernel interrupted: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 20:13:25.156 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:13:25.157 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:15:23.789 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:15:23.790 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:17:23.847 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:17:23.848 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:19:23.954 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:19:23.955 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:21:23.957 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:21:23.958 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:23:23.969 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:23:23.971 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:25:23.942 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:25:23.943 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:27:24.536 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:27:24.537 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:29:25.528 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:29:25.531 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:31:25.565 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:31:25.568 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:32:06.572 NotebookApp][m Kernel interrupted: 4524bc42-9bdd-4892-b311-6d609b64b1ac
+[32m[I 20:33:25.539 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:33:25.540 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:37:23.344 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:37:23.345 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:39:25.574 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:39:25.575 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:47:25.575 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:47:25.576 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
+[32m[I 20:47:38.725 NotebookApp][m Saving file at /ipynb/4-OTU-MergedRuns.ipynb
+[33m[W 20:47:38.726 NotebookApp][m Saving untrusted notebook ipynb/4-OTU-MergedRuns.ipynb
