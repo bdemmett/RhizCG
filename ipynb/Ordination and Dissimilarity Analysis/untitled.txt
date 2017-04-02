@@ -1,4 +1,0 @@
-
-Unweighted unifrac generates much greater dispersion among plant samples than weighted uni-frac.  May be an artifact of sequencing depth.  
-
-ECHCG rep 4 cluster with Bare soils, these are the two soils where root samples were lost and just loose rhizosphere soils were sequenced. See notes in lab book(p.46).  They should be removed from all analysis.  
