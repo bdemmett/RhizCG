@@ -1,0 +1,19 @@
+# Notes on core microbiome analysis:
+
+Shade, Ashley, and Jo Handelsman. 2012. “Beyond the Venn Diagram: The Hunt for a Core Microbiome.” Environmental Microbiology 14 (1): 4–12. doi:10.1111/j.1462-2920.2011.02585.x.
+
+
+
+
+
+Bulgarelli, Davide, Ruben Garrido-Oter, Philipp C. Münch, Aaron Weiman, Johannes Dröge, Yao Pan, Alice C. McHardy, and Paul Schulze-Lefert. 2015. “Structure and Function of the Bacterial Root Microbiota in Wild and Domesticated Barley.” Cell Host & Microbe 17 (3): 392–403. doi:10.1016/j.chom.2015.01.011.
+    
+       Only OTUs with a log2 transformed relative abundance above 5 ‰ in at least one sample were included in the analysis.
+       Note that beta-diversity calculations were done on un-rarified counts
+       
+
+Edwards, Joseph, Cameron Johnson, Christian Santos-Medellín, Eugene Lurie, Natraj Kumar Podishetty, Srijak Bhatnagar, Jonathan A. Eisen, and Venkatesan Sundaresan. 2015. “Structure, Variation, and Assembly of the Root-Associated Microbiomes of Rice.” Proceedings of the National Academy of Sciences 112 (8): E911–20. doi:10.1073/pnas.1414592112.
+
+       
+       Low abundance OTUs were eliminated from the
+124 OTU table if they did not have a total of at least 5 counts across all the samples in the experiment.
